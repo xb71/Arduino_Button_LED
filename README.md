@@ -39,6 +39,12 @@ Perfect starter project to understand:
 - digital outputs (LEDs)  
 - the magic of resistors
 
+
+![مقطع فيديو بدون عنوان - تم تصميمه باستخدام Clipchamp](https://github.com/user-attachments/assets/1bec6d92-3bef-40e2-abde-f66fad9e734e)
+
+
+
+
 ---
 
 ✨ That’s it. Quick, clean, and fun!
